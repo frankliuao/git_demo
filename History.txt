@@ -1,1 +1,2 @@
 08/13/17 13:00: Ao created History.txt
+08/13/17 13:10: Ao made the History.txt a "stable" version and released to welcome collaboration
