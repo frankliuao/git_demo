@@ -1,3 +1,4 @@
 08/13/17 13:00: Ao created History.txt
 08/13/17 13:10: Ao made the History.txt a "stable" version and released to welcome collaboration
 08/13/17 15:13: Ao is working on some new entries of History.txt
+03/13/17 23:00: Ao fixed a bug in the stable version and commit
